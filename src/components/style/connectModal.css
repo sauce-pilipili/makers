@@ -1,0 +1,9 @@
+.modal{
+display: flex;
+    justify-content: flex-end;
+    margin-right: 30px;
+}
+
+.button-connexion{
+    padding: 15px;
+}
